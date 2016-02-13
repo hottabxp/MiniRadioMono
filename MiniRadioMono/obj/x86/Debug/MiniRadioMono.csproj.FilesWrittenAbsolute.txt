@@ -1,0 +1,6 @@
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/bin/Debug/Bass.Net.Linux.dll
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/bin/Debug/MiniRadioMono.exe.mdb
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/bin/Debug/MiniRadioMono.exe
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/obj/x86/Debug/MiniRadioMono.exe
+/home/guest/Projects/MiniRadioMono/MiniRadioMono/obj/x86/Debug/MiniRadioMono.exe.mdb
